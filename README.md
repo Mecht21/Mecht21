@@ -12,7 +12,6 @@
 - 🚀 Passionate about exploring and applying new technologies.
 - 📖 Believer in continuous learning.
 - 🛠️ Enthusiast for a variety of projects.
-- 💼 Freelancer on Upwork and Fiverr.
 <hr>
 
 ## My Expirience💻:
