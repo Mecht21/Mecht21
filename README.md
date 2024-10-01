@@ -43,8 +43,6 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mecht21&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="75%">
 </p>
 
-<hr>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-407BFF.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-serrano-vega/) 
 
-<hr>
