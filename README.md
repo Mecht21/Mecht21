@@ -1,3 +1,7 @@
+<a href="https://github.com/ghpvc/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Mecht21&color=green&style=for-the-badge">
+</a>
+
 <h2> < Hello World, I'm <a href="https://www.linkedin.com/in/daniel-serrano-vega/" target="_blank">Daniel Serrano Vega</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 
 <hr>
@@ -13,12 +17,13 @@
 
 ## My Expirience💻:
 
-- Very happy with the delivery! I had a very old app and not a lot of developers can do update it perfectly. Meet is a very good and did it in a short span of time. I'll hire him again if I need anything else!
-- Gave me code thumbs up 5 star
-- I always work with him because he understands very well what I want. He gives me a lot of confidence.
-- Meet is the best, I highly recommend him!
-- Very satisfied with the work received.
-- fast delivery
+- Back-end Development: Proficient in SQL Server, .NET, Spring Boot, React, and Azure, with a focus on designing scalable and robust systems.
+- Team Collaboration: Worked in multidisciplinary and multicultural teams, contributing to the success of various projects.
+- Web Application Development: Developed a user-friendly web application using React for an online course platform, ensuring seamless user experience.
+- Backend Architecture Design: Designed and implemented backend architecture with Spring Boot and microservices to ensure scalability and performance.
+- Production Deployment: Deployed services to production environments, ensuring high availability, reliability, and performance optimization.
+- Database Management: Modeled and managed databases, optimizing data storage and retrieval for enhanced efficiency.
+- Intelligent Chatbot Development: Worked on Python-based chatbot development, improving user interaction with intelligent, automated solutions.
 
 <h2>🛠 My Toolkit</h2>
 
