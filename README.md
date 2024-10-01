@@ -1,35 +1,50 @@
-<h1 align="center">Hi 👋, I'm Daniel Serrano</h1>
-<h3 align="center">A passionate software developer from Costa Rica</h3>
+<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/daniel-serrano-vega/" target="_blank">Daniel Serrano Vega</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mecht21&label=Profile%20views&color=0e75b6&style=flat" alt="mecht21" /> </p>
+<hr>
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mecht21" alt="mecht21" /></a> </p>
+- 👨‍💻 Computer Engineer at <a href="https://www.uned.ac.cr/" target="_blank">Universidad Estatal a Distancia</a>.
+- 🚀 Passionate about exploring and applying new technologies.
+- 📖 Believer in continuous learning.
+- 🛠️ Enthusiast for a variety of projects.
+- 💼 Freelancer on Upwork and Fiverr.
+<hr>
 
-- 🔭 I’m currently working on **a 3D game set in a post-apocalyptic environment filled with zombies.**
+## My Expirience💻:
 
-- 🌱 I’m currently learning **Allegro, Phaser, Pygames and Springboot**
+- Very happy with the delivery! I had a very old app and not a lot of developers can do update it perfectly. Meet is a very good and did it in a short span of time. I'll hire him again if I need anything else!
+- Gave me code thumbs up 5 star
+- I always work with him because he understands very well what I want. He gives me a lot of confidence.
+- Meet is the best, I highly recommend him!
+- Very satisfied with the work received.
+- fast delivery
 
-- 👯 I’m looking to collaborate on **projects involving video game development or requiring backend work.**
+<h2>🛠 My Toolkit</h2>
 
-- 💬 Ask me about **C#, java, Unity and Git.**
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/es)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/es-es/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+[![Microsoft Azure](https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-gb)
+[![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-- 📫 How to reach me **daniel.serrano0119@gmail.com**
 
-- ⚡ Fun fact **I think I am creative**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daniel-serrano-vega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel serrano vega" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22804551/mecht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mecht" height="30" width="40" /></a>
-<a href="https://fb.com/daniel serrano vega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel serrano vega" height="30" width="40" /></a>
-<a href="https://instagram.com/dan_serrano01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dan_serrano01" height="30" width="40" /></a>
-<a href="https://discord.gg/748683955187875850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="daniel_se" height="30" width="40" /></a>
+<h2>🏆 Github Stats</h2>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Mecht21&theme=radical&show_icons=true" alt="Mecht21's Github Stats" width="75%"/><br />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mecht21&theme=dark" width="75%"><br />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mecht21&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="75%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<hr>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/linkedin-407BFF.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-serrano-vega/) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mecht21&show_icons=true&locale=en&layout=compact" alt="mecht21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mecht21&show_icons=true&locale=en" alt="mecht21" /></p>
-
+<hr>
