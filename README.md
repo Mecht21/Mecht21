@@ -38,7 +38,8 @@
 [![Microsoft Azure](https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-gb)
 [![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://es.react.dev/)
 
 <h2>🏆 Github Stats</h2>
 <p align="center"> 
