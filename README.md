@@ -8,7 +8,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 👨‍💻 Computer Engineer at <a href="https://www.uned.ac.cr/" target="_blank">Universidad Estatal a Distancia</a>.
+- 👨‍💻 Computer Engineer.
 - 🚀 Passionate about exploring and applying new technologies.
 - 📖 Believer in continuous learning.
 - 🛠️ Enthusiast for a variety of projects.
@@ -16,20 +16,26 @@
 
 ## My Expirience💻:
 
-- Back-end Development: Proficient in SQL Server, .NET, Spring Boot, React, and Azure, with a focus on designing scalable and robust systems.
-- Team Collaboration: Worked in multidisciplinary and multicultural teams, contributing to the success of various projects.
-- Web Application Development: Developed a user-friendly web application using React for an online course platform, ensuring seamless user experience.
-- Backend Architecture Design: Designed and implemented backend architecture with Spring Boot and microservices to ensure scalability and performance.
-- Production Deployment: Deployed services to production environments, ensuring high availability, reliability, and performance optimization.
-- Database Management: Modeled and managed databases, optimizing data storage and retrieval for enhanced efficiency.
-- Intelligent Chatbot Development: Worked on Python-based chatbot development, improving user interaction with intelligent, automated solutions.
+With a robust background in software development, I bring extensive experience in a variety of modern technologies and frameworks. My expertise spans Python, Java, and React, leveraging frameworks like Spring Boot, to develop scalable and efficient applications. I have a solid foundation in cloud technologies, particularly AWS, and I'm proficient in containerization with Docker and Kubernetes.
+
+My development experience is complemented by a strong understanding of database management, with hands-on experience in SQL, Redis, and MongoDB. Additionally, I have a keen interest in automation and productivity tools, such as Power Apps, SharePoint, and Power Automate, which I utilize to streamline workflows and enhance business processes.
+
+I am committed to staying at the forefront of industry trends and continuously refining my skills to meet evolving business needs. My passion for technology is evident in my approach to solving complex problems and delivering high-quality software solutions.
+
+Key Expertise:
+
+    Programming Languages: Python, C#, Java, JavaScript, React
+    Frameworks & Tools: .NET, Spring Boot, Power Apps, SharePoint, Power Automate
+    Cloud & DevOps: AWS, Docker, Kubernetes
+    Databases: SQL, Redis, MongoDB
+    Version Control: GitHub
+    Engines: Unity, GODOT
+    Continuous Learning
 
 <h2>🛠 My Toolkit</h2>
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/es)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/es-es/dotnet/csharp/)
