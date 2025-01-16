@@ -47,8 +47,6 @@ Key Expertise:
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://es.react.dev/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 <h2>🏆 Github Stats</h2>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Mecht21&theme=radical&show_icons=true" alt="Mecht21's Github Stats" width="75%"/><br />
